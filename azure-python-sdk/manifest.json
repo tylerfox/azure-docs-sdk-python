@@ -1,0 +1,52 @@
+{
+  "homepages": [],
+  "xrefmap": "azure-python.xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "docs-ref-conceptual/media/cloud-shell-try-it/cloud-shell-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "azure-python/azure/media/cloud-shell-try-it/cloud-shell-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": "azure-python",
+      "group": "azure-python"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs-ref-conceptual/media/cloud-shell-try-it/cloud-shell-safari.png",
+      "output": {
+        "resource": {
+          "relative_path": "azure-python/azure/media/cloud-shell-try-it/cloud-shell-safari.png"
+        }
+      },
+      "is_incremental": false,
+      "version": "azure-python",
+      "group": "azure-python"
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {
+    "azure-python": {
+      "version_folder": "azure-python/"
+    }
+  },
+  "groups": [
+    {
+      "name": "azure-python",
+      "dest": "azure-python",
+      "xrefmap": "azure-python.xrefmap.yml"
+    }
+  ]
+}
